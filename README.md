@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">🎓sophomore at IIT (BHU) VARANASI, currently flourishing skills in web development, wants to explore more in AI/ML. Let's connect and build something amazing together to make society better!</h3>
 
@@ -45,8 +45,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r120dhiman&show_icons=true&locale=en" alt="r120dhiman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r120dhiman&" alt="r120dhiman" /></p>
- <h3 style="font-weight:lighter;">Hi👋! Myself Rohit Kumar ,🎓sophomore at IIT (BHU) VARANASI, currently flourishing skills in web development, wants to explore more in AI/ML.
-        Let's connect and build something amazing together to make society better!</h3>-->
+
 
 
 
