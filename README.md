@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r120dhiman" alt="r120dhiman" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/r120dhiman/portfolio)
+- 🔭 I’m currently working with [Pamprazzi.com](http://pamprazzi.com)
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/r120dhiman/](https://github.com/r120dhiman/)
 
-- 💬 Ask me about **React.js, Javascript, HTML, CSS, Tailwind CSS**
+- 💬 Ask me about **React.js, Javascript, HTML, CSS, Tailwind CSS, Node.js, Go**
 
 - 📫 How to reach me **r120dhiman+github@gmail.com**
 
